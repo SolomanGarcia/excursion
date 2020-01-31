@@ -11,18 +11,17 @@ body {
     font-size: 16px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: black;
+    text-align: center;
 }
 
 /* HEADER */
 
-h1 {
+.header--main {
     color: white;
     font-size: 50px;
     font-weight: normal;
-    text-align: center;
 }
 
-a {
+.link--cta {
     color: aquamarine;
-    text-align: center;
 }
