@@ -1,0 +1,28 @@
+/* CSS RESET */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* UNIVERSAL STYLES */
+
+body {
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+}
+
+/* HEADER */
+
+h1 {
+    color: white;
+    font-size: 50px;
+    font-weight: normal;
+    text-align: center;
+}
+
+a {
+    color: aquamarine;
+    text-align: center;
+}
