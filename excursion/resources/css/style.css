@@ -33,3 +33,12 @@ body {
 .link--cta {
     color: aquamarine;
 }
+
+/* FOOTER */
+
+.footer--copyright {
+    color: gray;
+    font-size: 21px;
+    text-align: right;
+}
+
